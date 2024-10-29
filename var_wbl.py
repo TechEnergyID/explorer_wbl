@@ -1,1 +1,1 @@
-var_wbl = 1
+var_wbl = '1'
